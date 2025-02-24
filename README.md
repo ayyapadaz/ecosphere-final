@@ -52,3 +52,6 @@ Ecosphere is a web platform connecting waste treatment facilities with innovativ
 ### Installation
 
 1. Clone the repository:
+
+
+other repo:https://github.com/ashikjoy21/ecospheremodel
