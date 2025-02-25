@@ -104,6 +104,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Thanks to all contributors shaping this platform
 - Special appreciation to environmental organizations for sustainability insights
 
+link to fine tuned model:https://github.com/ashikjoy21/ecospheremodel
 ---
 *Ecosphere - Transforming waste into worth, sustainably.*
 
